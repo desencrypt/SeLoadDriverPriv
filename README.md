@@ -13,7 +13,8 @@ Después de tener una shell de administrador y poder observar que tenemos el SeL
 
 ## Compilar y ejecutar EoPLoadDriver
 
-Para conseguir el ejecutable EoPLoadDriver.exe debemos compilar el archivo (en x64 y release) que se encuentra en https://github.com/TarlogicSecurity/EoPLoadDriver/ , sin embargo puede descargarlo en este mismo repositorio ya compilado
+Para conseguir el ejecutable EoPLoadDriver.exe debemos compilar el archivo (en x64 y release) que se encuentra en https://github.com/TarlogicSecurity/EoPLoadDriver/ , sin embargo puede descargarlo en este mismo repositorio ya compilado.
+
 Esto nos va a ayudar a poder subir un driver que pueda ser explotable, en este repositorio esta el driver capcom.sys con su exploit.
 su uso es el siguiente:
 
