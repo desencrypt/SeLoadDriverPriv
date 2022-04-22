@@ -40,4 +40,11 @@ Ya terminamos la escalada de privilegios y tendriamos una shell como administrad
 
 
 ## Ayudas
-https://www.tarlogic.com/es/blog/explotacion-de-la-directiva-cargar-y-descargar-controladores-de-dispositivo-seloaddriverprivilege/
+
+<ul>
+  <li>https://www.tarlogic.com/es/blog/explotacion-de-la-directiva-cargar-y-descargar-controladores-de-dispositivo-seloaddriverprivilege/</li>
+  <li>https://github.com/FuzzySecurity/Capcom-Rootkit/tree/master/Driver</li>
+  <li>https://github.com/tandasat/ExploitCapcom</li>
+  <li>https://github.com/TarlogicSecurity/EoPLoadDriver</li> 
+</ul>
+
