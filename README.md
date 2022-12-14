@@ -5,7 +5,7 @@ Explicación de como aprovecharse del permiso SeLoadDriverPriv Windows 64
 
 ## Habilitar privilegio
 
-Después de tener una shell de administrador y poder observar que tenemos el SeLoadDriverPrivilege aunque este deshabilitado, debemos de ejecutar el siguiente script para poder habilitarlo, podemos copiar y ejecutar en la misma shell.
+Después de tener una shell de administrador (token sin restricciones) y poder observar que tenemos el SeLoadDriverPrivilege aunque este deshabilitado, debemos de ejecutar el siguiente script para poder habilitarlo, podemos copiar y ejecutar en la misma shell.
 
 ```
 .\Enable-SeLoadDriverPrivilege.ps1
@@ -40,7 +40,7 @@ Desde la misma shell ejecutamos lo siguiente y nos abrira una nueva terminal com
 
 ## FINAL
 
-Ya terminamos la escalada de privilegios y tendriamos una shell como administrador 
+Ya terminamos la escalada de privilegios y tendriamos una shell como administrador con todos los permisos.
 
 
 ## Ayudas
